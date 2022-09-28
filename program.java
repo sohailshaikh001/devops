@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+import and export
 public class EvenOdd {
 
     public static void main(String[] args) {
@@ -14,4 +14,5 @@ public class EvenOdd {
         else
             System.out.println(num + " is odd");
     }
-}
+
+program ends here.
